@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "git.ignoreLimitWarning": true,
+    "python.envFile": "${workspaceFolder}/.env"
+}
